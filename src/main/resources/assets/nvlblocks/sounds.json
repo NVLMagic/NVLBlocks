@@ -1,0 +1,8 @@
+{
+  "etp_swing": {
+    "subtitles": "sounds.item.etp",
+    "sounds": [
+      "nvlblocks:etp_swing"
+    ]
+  }
+}

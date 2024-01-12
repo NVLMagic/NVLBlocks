@@ -1,0 +1,5 @@
+{
+	"variants": {
+	 	"": { "model": "nvlblocks:block/nvl_block_ac" }
+	}
+}

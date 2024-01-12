@@ -1,0 +1,20 @@
+{
+	"loader": "forge:separate_transforms",
+	"base": {
+		"parent": "nvlblocks:block/nvl_block_spt_3d"
+	},
+	"perspectives": {
+		"gui": {
+			"parent": "nvlblocks:block/nvl_block_spt_3d"
+		},
+		"ground": {
+			"parent": "nvlblocks:block/nvl_block_spt_3d"
+		},
+		"fixed": {
+			"parent": "nvlblocks:block/nvl_block_spt_3d"
+		}
+	},
+	"textures": {
+		"particle": "nvlblocks:block/spt/3d"
+	}
+}

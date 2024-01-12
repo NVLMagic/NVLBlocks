@@ -1,0 +1,22 @@
+{
+    "key":  {
+                "I":  {
+                          "item":  "minecraft:iron_ingot",
+                          "data":  0
+                      },
+                "P":  {
+                          "item":  "minecraft:glass_pane",
+                          "data":  0
+                      }
+            },
+    "result":  {
+                   "item":  "nvlblocks:nvl_block_spt",
+                   "data":  0
+               },
+    "pattern":  [
+                    "P P",
+                    "PIP",
+                    "III"
+                ],
+    "type":  "minecraft:crafting_shaped"
+}

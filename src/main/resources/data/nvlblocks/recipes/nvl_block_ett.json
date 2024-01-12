@@ -1,0 +1,26 @@
+{
+    "key":  {
+                "L":  {
+                          "item":  "minecraft:lapis_lazuli",
+                          "data":  0
+                      },
+                "T":  {
+                          "item":  "minecraft:crafting_table",
+                          "data":  0
+                      },
+                "P":  {
+                          "item":  "minecraft:golden_pickaxe",
+                          "data":  0
+                      }
+            },
+    "result":  {
+                   "item":  "nvlblocks:nvl_block_ett",
+                   "data":  0
+               },
+    "pattern":  [
+                    "LPL",
+                    "LTL",
+                    "LPL"
+                ],
+    "type":  "minecraft:crafting_shaped"
+}

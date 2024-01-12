@@ -1,0 +1,54 @@
+Version History:
+
+1.15
++ Add Dye Extractor
++ Fix a bug in Automated Compacter
+
+1.14
+- Updated packet handling and XP management
+- Fix XP Vault: Use XP levels instead of XP points
+- Fix ETT container functions for automation
+- Fix HoloSign, do not let anything be taken by automation
+- Add Automated Compacter
+
+v1.13
+- Fix textures
+
+v1.12
+- Fix GUI buttons
+
+v1.11
+- Fix missing loot tables
+
+v1.10
+- Fix harvesting
+
+v1.9
+- Add Universal Helper text
+- Update ETT recipe lowering Lapis requirement
+- Fix XPT player remove
+
+v1.8
+- Fix harvesting
+- Fix Enchantment Table enchantment book delete issue when enchanting items with books which had multiple enchantments.
+- Add Enchantment Table book merge section
+
+v1.7:
+- Modify emergency teleport. It is NOT using the respawn point anymore. It stores the coordinates in the item.
+- Enchant Transfer Table: reduce Lapis requirement.
+- XP Vault: Fix exception on GUI open
+- Add: HoloSign
+
+v1.6:
+- Add Enchantment Transfer Table
+
+v1.4
+- Fix XP Vault communication: add Server->All Clients sync
+
+v1.2
+- Add XP Vault, XP Token
+
+v1.1:
+- Fix Respawn Point: save the player position not the block position.
+
+v1.0: Initial version

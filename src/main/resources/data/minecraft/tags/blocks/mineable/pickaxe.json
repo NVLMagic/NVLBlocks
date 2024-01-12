@@ -1,0 +1,4 @@
+{
+    "replace": false,
+    "values": ["nvlblocks:nvl_block_xpt","nvlblocks:nvl_block_spt","nvlblocks:nvl_block_ac","nvlblocks:nvl_block_de"]
+}

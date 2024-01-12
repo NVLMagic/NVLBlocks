@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "nvlblocks:block/ett/bottom",
+        "top": "nvlblocks:block/ett/top",
+        "side": "nvlblocks:block/ett/side"
+    }
+}
